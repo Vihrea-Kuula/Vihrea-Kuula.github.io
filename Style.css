@@ -1,5 +1,5 @@
 body {
-    background-color: #e1c699;
+    background-color: #6B8E23;
     color: #000000;
     font-family: 'trebuchet MS', 'Comic sans MS';
 }
@@ -69,7 +69,7 @@ header.masthead {
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
   overflow: hidden;
-  background-color: #e1c699;
+  background-color: #6B8E23;
   background-position: center center;
   background-attachment: scroll;
 }
